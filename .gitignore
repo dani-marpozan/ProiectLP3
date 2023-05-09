@@ -1,0 +1,8 @@
+#ignoring 'oauth.json'
+
+*.json
+
+
+#ignoring 'config.py' - contains Spotify API credentials
+
+config.py
