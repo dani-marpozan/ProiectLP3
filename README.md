@@ -19,7 +19,7 @@ https://medium.com/@mklaben15/using-python-to-download-a-youtube-playlist-and-co
 **Detalii pentru testare:** <br />
 1.Pachete necesare: ytmusicapi, spotipy (din requirements.txt)<br />
 2.Trebuie creat fisierul config.py ce contine datele de logare la API Spotify. In interiorul acestui fisier trebuie sa apara: <br />
-          **SPOTIFY_CLIENT_ID = 'Your Spotify CLIENT ID'  # se gaseste in url-ul pt copy link profile din Spotify <br />
+          **SPOTIFY_CLIENT_ID = 'Your Spotify CLIENT ID'  # se gaseste in url-ul pt copy link profile din Spotify** <br />
           **SPOTIFY_CLIENT_SECRET = 'Your Spotify CLIENT SECRET' # se gaseste in proiectul creat in https://developer.spotify.com/dashboard **<br />
           **SPOTIFY_REDIRECT_URI = 'Your Spotify REDIRECT URI' # se gaseste in proiectul creat in https://developer.spotify.com/dashboard** <br />
           **SPOTIFY_USER_ID='Your Spotify USER ID' # se gaseste in proiectul creat in https://developer.spotify.com/dashboard** <br />
